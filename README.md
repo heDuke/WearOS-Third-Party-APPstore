@@ -1,0 +1,2 @@
+# WearOS-Third-Party-APPstore
+这是一个使用Gemini对ComposeStarter项目进行修改，使其成为一个采用MaterialDesign设计的WearOS第三方应用商店（该软件仅作娱乐，你可以对此进行修改发布你自己运营的WearOS第三方应用商店）*不保证可用
